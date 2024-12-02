@@ -1,0 +1,32 @@
+#home{
+    background: #343a40;
+}
+
+#about h2 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li strong {
+    color: #007bff; /* Highlighting job titles */
+}
+
+section {
+    padding: 20px 0;
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.card-body{
+    background-color: whitesmoke;
+}
